@@ -1,5 +1,6 @@
 # Random-Picture
-
+项目来自
+https://github.com/YieldRay/Random-Picture
 通过随机发送 `url.csv` 文件中给出的图床链接来实现一个随机图片 API  
 本仓库含 php(vercel), deno(deno.dev) 版本，API 一致  
 另外给出了 node.js 实现，仅供测试  
